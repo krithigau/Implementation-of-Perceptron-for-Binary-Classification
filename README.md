@@ -1,9 +1,9 @@
 <H3>Name: KRITHIGA U</H3>
 <H3>Register no: 212223240076</H3>
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+
 # AIM:
-To implement a perceptron for classification using Python<BR>
+To implement a perceptron for binary classification using Python<BR>
 
 # EQUIPMENTS REQUIRED:
 Hardware – PCs
